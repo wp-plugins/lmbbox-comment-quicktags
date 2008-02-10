@@ -1,37 +1,20 @@
+=== LMB^Box Comment Quicktags ===
+Contributors: lmbbox
+Donate link: 
+Tags: comment, quicktags, buttons, formating
+Requires at least: 2.3.2
+Tested up to: 2.3.2
+Stable tag: 2.4
 
-=== LMB^Box Comment Quicktags 2.4 ===
+Inserts a quicktag toolbar in the blog comment form.
 
-Tags: Comment, Quicktags, Buttons, Formating
-Contributors: Thomas, Montague, (Montie)
-
-
-Plugin Name: LMB^Box Comment Quicktags
-Plugin URI: http://aboutme.lmbbox.com/lmbbox-plugins/lmbbox-comment-quicktags/
-Description: Inserts a quicktag toolbar in the blog comment form.
-Version: 2.4 <img src="http://aboutme.lmbbox.com/plugins-updates.php?plugin=lmbbox-comment-quicktags&version=2.4" alt="Checking For Updates ..." title="Checking For Updates ..." />
-Author: Thomas Montague
-Author URI: http://aboutme.lmbbox.com
-
-LMB^Box Comment Quicktags -> Was WP Comment Quicktags Plus!
-version 2.4, 2006-02-08
-By Thomas Montague
-
-This Plugin is modified code from Owen Winkler's Comment Quicktags Plugin
-****** Plugin Info ********
-Plugin Name: Comment Quicktags
-Plugin URI: http://www.asymptomatic.net/wp-hacks
-Description: Inserts a quicktag toolbar on the blog comment form.
-Version: 1.0
-Author: Owen Winkler
-Author URI: http://www.asymptomatic.net
-
+== Description ==
 
 LMB^Box Comment Quicktags is a plugin that puts a Quicktag Toolbar, just like the admin's 
 Quicktags Toolbar, right above the comments text form area. You can use the bar to add 
 strong/bold, em/italic, code, blockquote, and links tags by default. You can add more or 
 remove some if you do not want them there. This allows general users/guests to be able to 
 post comments with advanced editing features.
-
 
 == Installation ==
 
@@ -122,31 +105,19 @@ post comments with advanced editing features.
 	When you click on deactivate, you will be prompt to if to remove LMB^Box Comment Quicktags Settings. 
 	Click Ok/Yes to remove settings or Cancel/No to keep settings.
 
-
-== End of Installation ==
-
-
 == Frequently Asked Questions ==
 
+= Do I really need to use this plugin? =
 
-	= Do I really need to use this plugin? =
-
-	You don't HAVE to have this plugin, but then you, your users, and your guests won't be 
-	able to make use of any of the advanced formating features UNLESS you/they now how to 
-	code it in manually.
-
-
-== End of Frequently Asked Questions ==
-
+You don't HAVE to have this plugin, but then you, your users, and your guests won't be 
+able to make use of any of the advanced formating features UNLESS you/they now how to 
+code it in manually.
 
 == Screenshots ==
 
 
-NONE right now!
 
-
-== End of Screenshots ==
-
+== Arbitrary section ==
 
 == Change Log ==
 
@@ -243,10 +214,3 @@ NONE right now!
 	= 1.1 =
 
 	The first offical release of WP Comment Quicktags Plus for WordPress!
-
-
-== End of Change Log ==
-
-
-=== End of LMB^Box Comment Quicktags ===
-
