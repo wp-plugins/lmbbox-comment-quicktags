@@ -115,7 +115,8 @@ code it in manually.
 
 == Screenshots ==
 
-
+1. Comment Section Form
+2. Admin Option Page
 
 == Arbitrary section ==
 
