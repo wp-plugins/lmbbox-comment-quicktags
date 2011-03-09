@@ -3,7 +3,7 @@
 Plugin Name: LMB^Box Comment Quicktags
 Plugin URI: http://aboutme.lmbbox.com/lmbbox-plugins/lmbbox-comment-quicktags/
 Description: Inserts a quicktag toolbar in the blog comment form.
-Version: 2.3 <img src="http://aboutme.lmbbox.com/plugins-updates.php?plugin=lmbbox-comment-quicktags&version=2.3" alt="Checking For Updates ..." title="Checking For Updates ..." />
+Version: 2.3
 Author: Thomas Montague
 Author URI: http://aboutme.lmbbox.com
 */ 
